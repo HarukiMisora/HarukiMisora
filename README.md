@@ -2,7 +2,7 @@
 
 博客地址：https://www.iamwzc.com/
 
-NoStyleUi: https://www.iamwzc.com/TMXK/noStyleUiDoc/
+PropStyle: https://www.iamwzc.com/TMXK/noStyleUiDoc/
 
 
 
